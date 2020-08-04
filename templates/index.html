@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="https://unpkg.com/@geoman-io/leaflet-geoman-free@latest/dist/leaflet-geoman.css" />
   <style>
     html, body, #map {
       height: 95%;
@@ -20,6 +21,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/8.5.1/nouislider.min.css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/8.5.1/nouislider.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.5.0/MarkerCluster.Default.css" />
+    <script src="https://unpkg.com/@geoman-io/leaflet-geoman-free@latest/dist/leaflet-geoman.min.js"></script>
 </head>
 
 <body>
@@ -46,6 +48,7 @@
     <script src="{{ url_for('static', filename='./js/leaflet.ajax.min.js') }}"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.5.0/leaflet.markercluster.js"></script>
     <script>
+
         var slidervar = document.getElementById('slider');
         noUiSlider.create(slidervar, {
             connect: true,
@@ -129,12 +132,17 @@
             pointToLayer: circle
         });
 
+        var geoserverUrl = 'http://localhost:8080/geoserver/Antmapgis';
+        var geojsonLayer = null;
 
         var map = L.map('map',{
             center: [0,0],
             zoom: 5,
             layers:[dark, bright, streets, satellite]
         });
+        map.pm.addControls({ 
+            position: 'topleft', 
+            }); 
         map.addLayer(ant);
         L.control.layers(baselayers).addTo(map);
         slidervar.noUiSlider.on('update', function( values, handle ) {
@@ -159,5 +167,6 @@
 
     </script>
     <script src="{{ url_for('static', filename='./js/measure.js') }}"></script>
+<!--     <script src="{{ url_for('static', filename='./js/click.js') }}"></script> -->
 </body>
 </html>
