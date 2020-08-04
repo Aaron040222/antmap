@@ -1,0 +1,6853 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.109,51.779999 ]
+    },
+    "properties": {
+    "FIELD1":1,
+    "accepted_name":"Camponotites silvestris",
+    "accepted_rank":"species",
+    "accepted_no":185335,
+    "max_ma":3.6,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.109,51.779999 ]
+    },
+    "properties": {
+    "FIELD1":2,
+    "accepted_name":"Camponotites steinbachi",
+    "accepted_rank":"species",
+    "accepted_no":185336,
+    "max_ma":3.6,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.321945,40.465557 ]
+    },
+    "properties": {
+    "FIELD1":3,
+    "accepted_name":"Kyromyrma neffi",
+    "accepted_rank":"species",
+    "accepted_no":187514,
+    "max_ma":93.9,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.360001 ]
+    },
+    "properties": {
+    "FIELD1":4,
+    "accepted_name":"Gerontoformica orientalis",
+    "accepted_rank":"species",
+    "accepted_no":190428,
+    "max_ma":99.6,
+    "abund_value":1,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.321945,40.465557 ]
+    },
+    "properties": {
+    "FIELD1":5,
+    "accepted_name":"Sphecomyrma mesaki",
+    "accepted_rank":"species",
+    "accepted_no":214645,
+    "max_ma":93.9,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.321945,40.465557 ]
+    },
+    "properties": {
+    "FIELD1":6,
+    "accepted_name":"Sphecomyrma freyi",
+    "accepted_rank":"species",
+    "accepted_no":214622,
+    "max_ma":93.9,
+    "abund_value":2,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.321945,40.465557 ]
+    },
+    "properties": {
+    "FIELD1":7,
+    "accepted_name":"Brownimecia clavata",
+    "accepted_rank":"species",
+    "accepted_no":214648,
+    "max_ma":93.9,
+    "abund_value":3,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.360001 ]
+    },
+    "properties": {
+    "FIELD1":8,
+    "accepted_name":"Myanmyrma gracilis",
+    "accepted_rank":"species",
+    "accepted_no":190432,
+    "max_ma":99.6,
+    "abund_value":3,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.699997,49.825001 ]
+    },
+    "properties": {
+    "FIELD1":9,
+    "accepted_name":"Cananeuretus occidentalis",
+    "accepted_rank":"species",
+    "accepted_no":190466,
+    "max_ma":83.5,
+    "abund_value":2,
+    "cc":"CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.562897,71.307404 ]
+    },
+    "properties": {
+    "FIELD1":10,
+    "accepted_name":"Cretomyrma arnoldii",
+    "accepted_rank":"species",
+    "accepted_no":195450,
+    "max_ma":85.8,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.562897,71.307404 ]
+    },
+    "properties": {
+    "FIELD1":11,
+    "accepted_name":"Cretomyrma unicornis",
+    "accepted_rank":"species",
+    "accepted_no":195451,
+    "max_ma":85.8,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.562897,71.307404 ]
+    },
+    "properties": {
+    "FIELD1":12,
+    "accepted_name":"Dlusskyidris zherichini",
+    "accepted_rank":"species",
+    "accepted_no":195452,
+    "max_ma":85.8,
+    "abund_value":3,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.400002,39.599998 ]
+    },
+    "properties": {
+    "FIELD1":13,
+    "accepted_name":"Eoformica pinguis",
+    "accepted_rank":"species",
+    "accepted_no":206619,
+    "max_ma":50.3,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":14,
+    "accepted_name":"Oecophylla longiceps",
+    "accepted_rank":"species",
+    "accepted_no":200597,
+    "max_ma":48.6,
+    "abund_value":37,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.819,50.113998 ]
+    },
+    "properties": {
+    "FIELD1":15,
+    "accepted_name":"Oecophylla eckfeldiana",
+    "accepted_rank":"species",
+    "accepted_no":200598,
+    "max_ma":48.6,
+    "abund_value":7,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":16,
+    "accepted_name":"Oecophylla obesa",
+    "accepted_rank":"species",
+    "accepted_no":200595,
+    "max_ma":12.7,
+    "abund_value":4,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":17,
+    "accepted_name":"Formica procera",
+    "accepted_rank":"species",
+    "accepted_no":200632,
+    "max_ma":12.7,
+    "abund_value":2,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":18,
+    "accepted_name":"Camponotus lignitus",
+    "accepted_rank":"species",
+    "accepted_no":200633,
+    "max_ma":12.7,
+    "abund_value":5,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":19,
+    "accepted_name":"Formica gravida",
+    "accepted_rank":"species",
+    "accepted_no":200669,
+    "max_ma":12.7,
+    "abund_value":2,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":20,
+    "accepted_name":"Formica longicollis",
+    "accepted_rank":"species",
+    "accepted_no":200670,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":21,
+    "accepted_name":"Camponotus induratus",
+    "accepted_rank":"species",
+    "accepted_no":200671,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":22,
+    "accepted_name":"Camponotus heracleus",
+    "accepted_rank":"species",
+    "accepted_no":200673,
+    "max_ma":12.7,
+    "abund_value":2,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":23,
+    "accepted_name":"Camponotus pinguiculus",
+    "accepted_rank":"species",
+    "accepted_no":200675,
+    "max_ma":12.7,
+    "abund_value":4,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":24,
+    "accepted_name":"Formica obscura",
+    "accepted_rank":"species",
+    "accepted_no":200677,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":25,
+    "accepted_name":"Formica primordialis",
+    "accepted_rank":"species",
+    "accepted_no":200679,
+    "max_ma":12.7,
+    "abund_value":11,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":26,
+    "accepted_name":"Formica immersa",
+    "accepted_rank":"species",
+    "accepted_no":200680,
+    "max_ma":12.7,
+    "abund_value":9,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":27,
+    "accepted_name":"Casaleia longiventris",
+    "accepted_rank":"species",
+    "accepted_no":200681,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":28,
+    "accepted_name":"Formica macrophthalma",
+    "accepted_rank":"species",
+    "accepted_no":200685,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":29,
+    "accepted_name":"Lasius ophthalmicus",
+    "accepted_rank":"species",
+    "accepted_no":200686,
+    "max_ma":12.7,
+    "abund_value":7,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":30,
+    "accepted_name":"Formica macrocephala",
+    "accepted_rank":"species",
+    "accepted_no":200688,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":31,
+    "accepted_name":"Formica lavateri",
+    "accepted_rank":"species",
+    "accepted_no":200692,
+    "max_ma":12.7,
+    "abund_value":8,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":32,
+    "accepted_name":"Formica seuberti",
+    "accepted_rank":"species",
+    "accepted_no":200696,
+    "max_ma":12.7,
+    "abund_value":29,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":33,
+    "accepted_name":"Formica ungeri",
+    "accepted_rank":"species",
+    "accepted_no":200697,
+    "max_ma":12.7,
+    "abund_value":16,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":34,
+    "accepted_name":"Lasius globularis",
+    "accepted_rank":"species",
+    "accepted_no":200701,
+    "max_ma":12.7,
+    "abund_value":3,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":35,
+    "accepted_name":"Formica globiventris",
+    "accepted_rank":"species",
+    "accepted_no":200703,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":36,
+    "accepted_name":"Lasius longaevus",
+    "accepted_rank":"species",
+    "accepted_no":200705,
+    "max_ma":12.7,
+    "abund_value":6,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":37,
+    "accepted_name":"Emplastus ocellus",
+    "accepted_rank":"species",
+    "accepted_no":200708,
+    "max_ma":12.7,
+    "abund_value":4,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":38,
+    "accepted_name":"Lasius occultatus",
+    "accepted_rank":"species",
+    "accepted_no":200715,
+    "max_ma":12.7,
+    "abund_value":8,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":39,
+    "accepted_name":"Lasius longipennis",
+    "accepted_rank":"species",
+    "accepted_no":200720,
+    "max_ma":12.7,
+    "abund_value":4,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":40,
+    "accepted_name":"Liometopum imhoffii",
+    "accepted_rank":"species",
+    "accepted_no":200724,
+    "max_ma":12.7,
+    "abund_value":11,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":41,
+    "accepted_name":"Formica primitiva",
+    "accepted_rank":"species",
+    "accepted_no":200726,
+    "max_ma":12.7,
+    "abund_value":5,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":42,
+    "accepted_name":"Formica demersa",
+    "accepted_rank":"species",
+    "accepted_no":200727,
+    "max_ma":12.7,
+    "abund_value":2,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":43,
+    "accepted_name":"Formica orbata",
+    "accepted_rank":"species",
+    "accepted_no":200728,
+    "max_ma":12.7,
+    "abund_value":3,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":44,
+    "accepted_name":"Formica pulchella",
+    "accepted_rank":"species",
+    "accepted_no":200731,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":45,
+    "accepted_name":"Ponerites atavinus",
+    "accepted_rank":"species",
+    "accepted_no":200733,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":46,
+    "accepted_name":"Poneropsis fuliginosa",
+    "accepted_rank":"species",
+    "accepted_no":200738,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":47,
+    "accepted_name":"Poneropsis longaeva",
+    "accepted_rank":"species",
+    "accepted_no":200741,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.283,47.485001 ]
+    },
+    "properties": {
+    "FIELD1":48,
+    "accepted_name":"Poneropsis crassinervis",
+    "accepted_rank":"species",
+    "accepted_no":200743,
+    "max_ma":13.65,
+    "abund_value":1,
+    "cc":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":49,
+    "accepted_name":"Poneropsis ventrosa",
+    "accepted_rank":"species",
+    "accepted_no":200745,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":50,
+    "accepted_name":"Poneropsis globosa",
+    "accepted_rank":"species",
+    "accepted_no":200746,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":51,
+    "accepted_name":"Imhoffia nigra",
+    "accepted_rank":"species",
+    "accepted_no":200761,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":52,
+    "accepted_name":"Attopsis longipennis",
+    "accepted_rank":"species",
+    "accepted_no":200763,
+    "max_ma":12.7,
+    "abund_value":2,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":53,
+    "accepted_name":"Paraphaenogaster tertiaria",
+    "accepted_rank":"species",
+    "accepted_no":200766,
+    "max_ma":12.7,
+    "abund_value":2,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":54,
+    "accepted_name":"Carebara rugiceps",
+    "accepted_rank":"species",
+    "accepted_no":200768,
+    "max_ma":12.7,
+    "abund_value":8,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":55,
+    "accepted_name":"Gesomyrmex bremii",
+    "accepted_rank":"species",
+    "accepted_no":200770,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":56,
+    "accepted_name":"Paraphaenogaster jurinei",
+    "accepted_rank":"species",
+    "accepted_no":200773,
+    "max_ma":12.7,
+    "abund_value":2,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":57,
+    "accepted_name":"Myrmecites pusillus",
+    "accepted_rank":"species",
+    "accepted_no":200774,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":58,
+    "accepted_name":"Cephites oeningensis",
+    "accepted_rank":"species",
+    "accepted_no":201786,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":59,
+    "accepted_name":"Cephites fragilis",
+    "accepted_rank":"species",
+    "accepted_no":201787,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.360001,-22.309999 ]
+    },
+    "properties": {
+    "FIELD1":60,
+    "accepted_name":"Afropone oculata",
+    "accepted_rank":"species",
+    "accepted_no":204269,
+    "max_ma":93.9,
+    "abund_value":2,
+    "cc":"BW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.360001,-22.309999 ]
+    },
+    "properties": {
+    "FIELD1":61,
+    "accepted_name":"Afropone orapa",
+    "accepted_rank":"species",
+    "accepted_no":204270,
+    "max_ma":93.9,
+    "abund_value":1,
+    "cc":"BW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.360001,-22.309999 ]
+    },
+    "properties": {
+    "FIELD1":62,
+    "accepted_name":"Afromyrma petrosa",
+    "accepted_rank":"species",
+    "accepted_no":204272,
+    "max_ma":93.9,
+    "abund_value":1,
+    "cc":"BW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.144997,50.797001 ]
+    },
+    "properties": {
+    "FIELD1":63,
+    "accepted_name":"Ypresiomyrma orbiculata",
+    "accepted_rank":"species",
+    "accepted_no":204817,
+    "max_ma":56,
+    "abund_value":1,
+    "cc":"CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.199997,38.900002 ]
+    },
+    "properties": {
+    "FIELD1":64,
+    "accepted_name":"Camponotus vetus",
+    "accepted_rank":"species",
+    "accepted_no":206618,
+    "max_ma":50.3,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.315,47.709999 ]
+    },
+    "properties": {
+    "FIELD1":65,
+    "accepted_name":"Camponotus vehemens",
+    "accepted_rank":"species",
+    "accepted_no":207320,
+    "max_ma":33.9,
+    "abund_value":1,
+    "cc":"FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.315,47.709999 ]
+    },
+    "properties": {
+    "FIELD1":66,
+    "accepted_name":"Camponotus compactus",
+    "accepted_rank":"species",
+    "accepted_no":207322,
+    "max_ma":33.9,
+    "abund_value":1,
+    "cc":"FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.315,47.709999 ]
+    },
+    "properties": {
+    "FIELD1":67,
+    "accepted_name":"Oecophylla praeclara",
+    "accepted_rank":"species",
+    "accepted_no":207323,
+    "max_ma":33.9,
+    "abund_value":1,
+    "cc":"FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.315,47.709999 ]
+    },
+    "properties": {
+    "FIELD1":68,
+    "accepted_name":"Dolichoderus explicans",
+    "accepted_rank":"species",
+    "accepted_no":207326,
+    "max_ma":33.9,
+    "abund_value":1,
+    "cc":"FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.315,47.709999 ]
+    },
+    "properties": {
+    "FIELD1":69,
+    "accepted_name":"Solenopsis superba",
+    "accepted_rank":"species",
+    "accepted_no":207335,
+    "max_ma":33.9,
+    "abund_value":1,
+    "cc":"FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.315,47.709999 ]
+    },
+    "properties": {
+    "FIELD1":70,
+    "accepted_name":"Solenopsis moesta",
+    "accepted_rank":"species",
+    "accepted_no":207330,
+    "max_ma":33.9,
+    "abund_value":1,
+    "cc":"FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.315,47.709999 ]
+    },
+    "properties": {
+    "FIELD1":71,
+    "accepted_name":"Solenopsis maxima",
+    "accepted_rank":"species",
+    "accepted_no":207333,
+    "max_ma":33.9,
+    "abund_value":3,
+    "cc":"FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.315,47.709999 ]
+    },
+    "properties": {
+    "FIELD1":72,
+    "accepted_name":"Solenopsis privata",
+    "accepted_rank":"species",
+    "accepted_no":207334,
+    "max_ma":33.9,
+    "abund_value":1,
+    "cc":"FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.315,47.709999 ]
+    },
+    "properties": {
+    "FIELD1":73,
+    "accepted_name":"Solenopsis blanda",
+    "accepted_rank":"species",
+    "accepted_no":207336,
+    "max_ma":33.9,
+    "abund_value":1,
+    "cc":"FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.315,47.709999 ]
+    },
+    "properties": {
+    "FIELD1":74,
+    "accepted_name":"Solenopsis valida",
+    "accepted_rank":"species",
+    "accepted_no":207338,
+    "max_ma":33.9,
+    "abund_value":1,
+    "cc":"FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.492996,52.981998 ]
+    },
+    "properties": {
+    "FIELD1":75,
+    "accepted_name":"Formica arcana",
+    "accepted_rank":"species",
+    "accepted_no":209093,
+    "max_ma":33.9,
+    "abund_value":1,
+    "cc":"CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.492996,52.981998 ]
+    },
+    "properties": {
+    "FIELD1":76,
+    "accepted_name":"Dolichoderus obliteratus",
+    "accepted_rank":"species",
+    "accepted_no":209092,
+    "max_ma":33.9,
+    "abund_value":2,
+    "cc":"CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.492996,52.981998 ]
+    },
+    "properties": {
+    "FIELD1":77,
+    "accepted_name":"Calyptites antediluvianum",
+    "accepted_rank":"species",
+    "accepted_no":209081,
+    "max_ma":33.9,
+    "abund_value":1,
+    "cc":"CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.42778,73.833054 ]
+    },
+    "properties": {
+    "FIELD1":78,
+    "accepted_name":"Baikuris mandibularis",
+    "accepted_rank":"species",
+    "accepted_no":217814,
+    "max_ma":105.3,
+    "abund_value":3,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.42778,73.833054 ]
+    },
+    "properties": {
+    "FIELD1":79,
+    "accepted_name":"Baikuris mirabilis",
+    "accepted_rank":"species",
+    "accepted_no":217813,
+    "max_ma":105.3,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.36,50.737999 ]
+    },
+    "properties": {
+    "FIELD1":80,
+    "accepted_name":"Britaneuretus anglicus",
+    "accepted_rank":"species",
+    "accepted_no":222022,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.36,50.737999 ]
+    },
+    "properties": {
+    "FIELD1":81,
+    "accepted_name":"Emplastus britannicus",
+    "accepted_rank":"species",
+    "accepted_no":222021,
+    "max_ma":38,
+    "abund_value":5,
+    "cc":"UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.36,50.737999 ]
+    },
+    "properties": {
+    "FIELD1":82,
+    "accepted_name":"Leucotaphus gurnetensis",
+    "accepted_rank":"species",
+    "accepted_no":222024,
+    "max_ma":38,
+    "abund_value":78,
+    "cc":"UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.36,50.737999 ]
+    },
+    "properties": {
+    "FIELD1":83,
+    "accepted_name":"Oecophylla atavina",
+    "accepted_rank":"species",
+    "accepted_no":222025,
+    "max_ma":38,
+    "abund_value":2,
+    "cc":"UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.36,50.737999 ]
+    },
+    "properties": {
+    "FIELD1":84,
+    "accepted_name":"Oecophylla megarche",
+    "accepted_rank":"species",
+    "accepted_no":222027,
+    "max_ma":38,
+    "abund_value":15,
+    "cc":"UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.748001,48.66 ]
+    },
+    "properties": {
+    "FIELD1":85,
+    "accepted_name":"Propalosoma gutierrezae",
+    "accepted_rank":"species",
+    "accepted_no":230537,
+    "max_ma":56,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.748001,48.66 ]
+    },
+    "properties": {
+    "FIELD1":86,
+    "accepted_name":"Camponotites kraussei",
+    "accepted_rank":"species",
+    "accepted_no":230538,
+    "max_ma":56,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.09,50.674999 ]
+    },
+    "properties": {
+    "FIELD1":87,
+    "accepted_name":"Oecophylla bartoniana",
+    "accepted_rank":"species",
+    "accepted_no":235514,
+    "max_ma":47.8,
+    "abund_value":1,
+    "cc":"UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.09,50.674999 ]
+    },
+    "properties": {
+    "FIELD1":88,
+    "accepted_name":"Formica heteroptera",
+    "accepted_rank":"species",
+    "accepted_no":235515,
+    "max_ma":47.8,
+    "abund_value":1,
+    "cc":"UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.262,50.747002 ]
+    },
+    "properties": {
+    "FIELD1":89,
+    "accepted_name":"Prionomyrmex wappleri",
+    "accepted_rank":"species",
+    "accepted_no":236186,
+    "max_ma":28.4,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":90,
+    "accepted_name":"Archimyrmex wedmannae",
+    "accepted_rank":"species",
+    "accepted_no":236184,
+    "max_ma":48.6,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.144997,50.797001 ]
+    },
+    "properties": {
+    "FIELD1":91,
+    "accepted_name":"Ypresiomyrma bartletti",
+    "accepted_rank":"species",
+    "accepted_no":204818,
+    "max_ma":56,
+    "abund_value":1,
+    "cc":"CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.144997,50.797001 ]
+    },
+    "properties": {
+    "FIELD1":92,
+    "accepted_name":"Avitomyrmex elongatus",
+    "accepted_rank":"species",
+    "accepted_no":204822,
+    "max_ma":56,
+    "abund_value":1,
+    "cc":"CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.144997,50.797001 ]
+    },
+    "properties": {
+    "FIELD1":93,
+    "accepted_name":"Avitomyrmex mastax",
+    "accepted_rank":"species",
+    "accepted_no":204823,
+    "max_ma":56,
+    "abund_value":2,
+    "cc":"CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.144997,50.797001 ]
+    },
+    "properties": {
+    "FIELD1":94,
+    "accepted_name":"Avitomyrmex systenus",
+    "accepted_rank":"species",
+    "accepted_no":204824,
+    "max_ma":56,
+    "abund_value":1,
+    "cc":"CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.144997,50.797001 ]
+    },
+    "properties": {
+    "FIELD1":95,
+    "accepted_name":"Macabeemyrma ovata",
+    "accepted_rank":"species",
+    "accepted_no":204826,
+    "max_ma":56,
+    "abund_value":1,
+    "cc":"CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.144997,50.797001 ]
+    },
+    "properties": {
+    "FIELD1":96,
+    "accepted_name":"Myrmeciites herculeanus",
+    "accepted_rank":"species",
+    "accepted_no":204828,
+    "max_ma":56,
+    "abund_value":1,
+    "cc":"CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.144997,50.797001 ]
+    },
+    "properties": {
+    "FIELD1":97,
+    "accepted_name":"Myrmeciites goliath",
+    "accepted_rank":"species",
+    "accepted_no":204930,
+    "max_ma":56,
+    "abund_value":1,
+    "cc":"CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.336998,52.299 ]
+    },
+    "properties": {
+    "FIELD1":98,
+    "accepted_name":"Myrmeciites tabanifluviensis",
+    "accepted_rank":"species",
+    "accepted_no":204936,
+    "max_ma":56,
+    "abund_value":1,
+    "cc":"CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.336998,30.490999 ]
+    },
+    "properties": {
+    "FIELD1":99,
+    "accepted_name":"Formica eoptera",
+    "accepted_rank":"species",
+    "accepted_no":241141,
+    "max_ma":37.2,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":100,
+    "accepted_name":"Myopopone sinensis",
+    "accepted_rank":"species",
+    "accepted_no":241337,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":101,
+    "accepted_name":"Leptogenys lacerata",
+    "accepted_rank":"species",
+    "accepted_no":241339,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":102,
+    "accepted_name":"Leptogenys chinensis",
+    "accepted_rank":"species",
+    "accepted_no":241338,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":103,
+    "accepted_name":"Pachycondyla nubeculata",
+    "accepted_rank":"species",
+    "accepted_no":241340,
+    "max_ma":20.44,
+    "abund_value":2,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":104,
+    "accepted_name":"Pachycondyla minutansata",
+    "accepted_rank":"species",
+    "accepted_no":241341,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":105,
+    "accepted_name":"Miosolenopsis fossilis",
+    "accepted_rank":"species",
+    "accepted_no":71534,
+    "max_ma":20.44,
+    "abund_value":2,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":106,
+    "accepted_name":"Paraphaenogaster shanwangensis",
+    "accepted_rank":"species",
+    "accepted_no":72034,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":107,
+    "accepted_name":"Paraphaenogaster lapidescens",
+    "accepted_rank":"species",
+    "accepted_no":241343,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":108,
+    "accepted_name":"Paraphaenogaster paludosa",
+    "accepted_rank":"species",
+    "accepted_no":241344,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":109,
+    "accepted_name":"Zhangidris atopogaster",
+    "accepted_rank":"species",
+    "accepted_no":71539,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":110,
+    "accepted_name":"Dolichoderus jiaoyanshanensis",
+    "accepted_rank":"species",
+    "accepted_no":71171,
+    "max_ma":20.44,
+    "abund_value":2,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":111,
+    "accepted_name":"Dolichoderus evolans",
+    "accepted_rank":"species",
+    "accepted_no":241345,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":112,
+    "accepted_name":"Dolichoderus lacinius",
+    "accepted_rank":"species",
+    "accepted_no":241346,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":113,
+    "accepted_name":"Technomyrmex septentrionalis",
+    "accepted_rank":"species",
+    "accepted_no":241347,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":114,
+    "accepted_name":"Iridomyrmex shandongicus",
+    "accepted_rank":"species",
+    "accepted_no":241348,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":115,
+    "accepted_name":"Liometopum potamophilum",
+    "accepted_rank":"species",
+    "accepted_no":241349,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":116,
+    "accepted_name":"Liometopum eremicum",
+    "accepted_rank":"species",
+    "accepted_no":241350,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":117,
+    "accepted_name":"Alloiomma changweiensis",
+    "accepted_rank":"species",
+    "accepted_no":71541,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":118,
+    "accepted_name":"Tapinoma baculum",
+    "accepted_rank":"species",
+    "accepted_no":241351,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":119,
+    "accepted_name":"Elaphrodites scutulatus",
+    "accepted_rank":"species",
+    "accepted_no":71543,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":120,
+    "accepted_name":"Elaphrodites mutatus",
+    "accepted_rank":"species",
+    "accepted_no":241352,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":121,
+    "accepted_name":"Formica linquensis",
+    "accepted_rank":"species",
+    "accepted_no":241353,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":122,
+    "accepted_name":"Formica ceps",
+    "accepted_rank":"species",
+    "accepted_no":241354,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":123,
+    "accepted_name":"Formica ovala",
+    "accepted_rank":"species",
+    "accepted_no":241355,
+    "max_ma":20.44,
+    "abund_value":2,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":124,
+    "accepted_name":"Lasius vetulus",
+    "accepted_rank":"species",
+    "accepted_no":234235,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":125,
+    "accepted_name":"Lasius mordicus",
+    "accepted_rank":"species",
+    "accepted_no":241357,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":126,
+    "accepted_name":"Lasius validus",
+    "accepted_rank":"species",
+    "accepted_no":241358,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":127,
+    "accepted_name":"Lasius truncatus",
+    "accepted_rank":"species",
+    "accepted_no":241359,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":128,
+    "accepted_name":"Lasius inflatus",
+    "accepted_rank":"species",
+    "accepted_no":71545,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":129,
+    "accepted_name":"Camponotites xiejiaheensis",
+    "accepted_rank":"species",
+    "accepted_no":70778,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":130,
+    "accepted_name":"Camponotus shanwangensis",
+    "accepted_rank":"species",
+    "accepted_no":70784,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":131,
+    "accepted_name":"Camponotus gracilis",
+    "accepted_rank":"species",
+    "accepted_no":241361,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":132,
+    "accepted_name":"Camponotus ampullosus",
+    "accepted_rank":"species",
+    "accepted_no":241362,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":133,
+    "accepted_name":"Camponotus curviansatus",
+    "accepted_rank":"species",
+    "accepted_no":241363,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":134,
+    "accepted_name":"Camponotus longus",
+    "accepted_rank":"species",
+    "accepted_no":241365,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":135,
+    "accepted_name":"Camponotus plenus",
+    "accepted_rank":"species",
+    "accepted_no":241367,
+    "max_ma":20.44,
+    "abund_value":3,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":136,
+    "accepted_name":"Camponotus microthoracus",
+    "accepted_rank":"species",
+    "accepted_no":241368,
+    "max_ma":20.44,
+    "abund_value":3,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":137,
+    "accepted_name":"Camponotus ambon",
+    "accepted_rank":"species",
+    "accepted_no":241370,
+    "max_ma":20.44,
+    "abund_value":2,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":138,
+    "accepted_name":"Camponotus palaeopterus",
+    "accepted_rank":"species",
+    "accepted_no":71547,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.946388,35.110279 ]
+    },
+    "properties": {
+    "FIELD1":139,
+    "accepted_name":"Polyrhachis annosus",
+    "accepted_rank":"species",
+    "accepted_no":247354,
+    "max_ma":7.246,
+    "abund_value":1,
+    "cc":"GR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":140,
+    "accepted_name":"Casaleia eocenica",
+    "accepted_rank":"species",
+    "accepted_no":251956,
+    "max_ma":48.6,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":141,
+    "accepted_name":"Pseudectatomma eocenica",
+    "accepted_rank":"species",
+    "accepted_no":251960,
+    "max_ma":48.6,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":142,
+    "accepted_name":"Pseudectatomma striatula",
+    "accepted_rank":"species",
+    "accepted_no":251961,
+    "max_ma":48.6,
+    "abund_value":3,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":143,
+    "accepted_name":"Pachycondyla eocenica",
+    "accepted_rank":"species",
+    "accepted_no":251962,
+    "max_ma":48.6,
+    "abund_value":2,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":144,
+    "accepted_name":"Pachycondyla lutzi",
+    "accepted_rank":"species",
+    "accepted_no":251963,
+    "max_ma":48.6,
+    "abund_value":10,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":145,
+    "accepted_name":"Pachycondyla messeliana",
+    "accepted_rank":"species",
+    "accepted_no":251964,
+    "max_ma":48.6,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":146,
+    "accepted_name":"Pachycondyla parvula",
+    "accepted_rank":"species",
+    "accepted_no":326842,
+    "max_ma":48.6,
+    "abund_value":6,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":147,
+    "accepted_name":"Pachycondyla petiolosa",
+    "accepted_rank":"species",
+    "accepted_no":251967,
+    "max_ma":48.6,
+    "abund_value":2,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":148,
+    "accepted_name":"Pachycondyla petrosa",
+    "accepted_rank":"species",
+    "accepted_no":251966,
+    "max_ma":48.6,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":149,
+    "accepted_name":"Protopone germanica",
+    "accepted_rank":"species",
+    "accepted_no":251969,
+    "max_ma":48.6,
+    "abund_value":2,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":150,
+    "accepted_name":"Protopone magna",
+    "accepted_rank":"species",
+    "accepted_no":251971,
+    "max_ma":48.6,
+    "abund_value":2,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":151,
+    "accepted_name":"Protopone oculata",
+    "accepted_rank":"species",
+    "accepted_no":251972,
+    "max_ma":48.6,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":152,
+    "accepted_name":"Protopone sepulta",
+    "accepted_rank":"species",
+    "accepted_no":251973,
+    "max_ma":48.6,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":153,
+    "accepted_name":"Protopone vetula",
+    "accepted_rank":"species",
+    "accepted_no":251974,
+    "max_ma":48.6,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":154,
+    "accepted_name":"Cephalopone potens",
+    "accepted_rank":"species",
+    "accepted_no":251976,
+    "max_ma":48.6,
+    "abund_value":2,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":155,
+    "accepted_name":"Cephalopone grandis",
+    "accepted_rank":"species",
+    "accepted_no":251977,
+    "max_ma":48.6,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":156,
+    "accepted_name":"Cyrtopone microcephala",
+    "accepted_rank":"species",
+    "accepted_no":251979,
+    "max_ma":48.6,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":157,
+    "accepted_name":"Cyrtopone curiosa",
+    "accepted_rank":"species",
+    "accepted_no":251980,
+    "max_ma":48.6,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":158,
+    "accepted_name":"Cyrtopone elongata",
+    "accepted_rank":"species",
+    "accepted_no":251981,
+    "max_ma":48.6,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":159,
+    "accepted_name":"Cyrtopone striata",
+    "accepted_rank":"species",
+    "accepted_no":251982,
+    "max_ma":48.6,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":160,
+    "accepted_name":"Messelepone leptogenoides",
+    "accepted_rank":"species",
+    "accepted_no":251984,
+    "max_ma":48.6,
+    "abund_value":2,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.815002,-41.099998 ]
+    },
+    "properties": {
+    "FIELD1":161,
+    "accepted_name":"Archimyrmex piatnitzkyi",
+    "accepted_rank":"species",
+    "accepted_no":255874,
+    "max_ma":47.8,
+    "abund_value":3,
+    "cc":"AR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.150002,39.630001 ]
+    },
+    "properties": {
+    "FIELD1":162,
+    "accepted_name":"Archimyrmex rostratus",
+    "accepted_rank":"species",
+    "accepted_no":204945,
+    "max_ma":50.3,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.529999,41.080002 ]
+    },
+    "properties": {
+    "FIELD1":163,
+    "accepted_name":"Pseudocamponotus elkoanus",
+    "accepted_rank":"species",
+    "accepted_no":255887,
+    "max_ma":37.2,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.949997,39.535 ]
+    },
+    "properties": {
+    "FIELD1":164,
+    "accepted_name":"Mianeuretus eocenicus",
+    "accepted_rank":"species",
+    "accepted_no":256043,
+    "max_ma":50.3,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.949997,39.535 ]
+    },
+    "properties": {
+    "FIELD1":165,
+    "accepted_name":"Proiridomyrmex vetulus",
+    "accepted_rank":"species",
+    "accepted_no":256044,
+    "max_ma":50.3,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.949997,39.535 ]
+    },
+    "properties": {
+    "FIELD1":166,
+    "accepted_name":"Dolichoderus kohlsi",
+    "accepted_rank":"species",
+    "accepted_no":256045,
+    "max_ma":50.3,
+    "abund_value":18,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.949997,39.535 ]
+    },
+    "properties": {
+    "FIELD1":167,
+    "accepted_name":"Myrmecites rotundiceps",
+    "accepted_rank":"species",
+    "accepted_no":256047,
+    "max_ma":50.3,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.949997,39.535 ]
+    },
+    "properties": {
+    "FIELD1":168,
+    "accepted_name":"Solenopsites minutus",
+    "accepted_rank":"species",
+    "accepted_no":256048,
+    "max_ma":50.3,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.949997,39.535 ]
+    },
+    "properties": {
+    "FIELD1":169,
+    "accepted_name":"Ponerites eocenicus",
+    "accepted_rank":"species",
+    "accepted_no":256049,
+    "max_ma":50.3,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.120003,39.540001 ]
+    },
+    "properties": {
+    "FIELD1":170,
+    "accepted_name":"Ponerites coloradensis",
+    "accepted_rank":"species",
+    "accepted_no":256050,
+    "max_ma":50.3,
+    "abund_value":2,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.949997,39.535 ]
+    },
+    "properties": {
+    "FIELD1":171,
+    "accepted_name":"Ponerites hypoponeroides",
+    "accepted_rank":"species",
+    "accepted_no":256051,
+    "max_ma":46.2,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.949997,39.535 ]
+    },
+    "properties": {
+    "FIELD1":172,
+    "accepted_name":"Eoformica magna",
+    "accepted_rank":"species",
+    "accepted_no":256054,
+    "max_ma":50.3,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.949997,39.535 ]
+    },
+    "properties": {
+    "FIELD1":173,
+    "accepted_name":"Eoformica globularis",
+    "accepted_rank":"species",
+    "accepted_no":256055,
+    "max_ma":50.3,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.748001,48.66 ]
+    },
+    "properties": {
+    "FIELD1":174,
+    "accepted_name":"Klondikia whiteae",
+    "accepted_rank":"species",
+    "accepted_no":256056,
+    "max_ma":56,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.120003,39.540001 ]
+    },
+    "properties": {
+    "FIELD1":175,
+    "accepted_name":"Kohlsimyrma laticeps",
+    "accepted_rank":"species",
+    "accepted_no":256057,
+    "max_ma":50.3,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.120003,39.540001 ]
+    },
+    "properties": {
+    "FIELD1":176,
+    "accepted_name":"Kohlsimyrma longiceps",
+    "accepted_rank":"species",
+    "accepted_no":256058,
+    "max_ma":50.3,
+    "abund_value":2,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.949997,39.535 ]
+    },
+    "properties": {
+    "FIELD1":177,
+    "accepted_name":"Kohlsimyrma gracilis",
+    "accepted_rank":"species",
+    "accepted_no":256059,
+    "max_ma":50.3,
+    "abund_value":2,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.262,50.747002 ]
+    },
+    "properties": {
+    "FIELD1":178,
+    "accepted_name":"Aphaenogaster archaica",
+    "accepted_rank":"species",
+    "accepted_no":256092,
+    "max_ma":28.4,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.262,50.747002 ]
+    },
+    "properties": {
+    "FIELD1":179,
+    "accepted_name":"Formica bauckhorni",
+    "accepted_rank":"species",
+    "accepted_no":256093,
+    "max_ma":28.4,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.299999,48.110001 ]
+    },
+    "properties": {
+    "FIELD1":180,
+    "accepted_name":"Paraphaenogaster pannonica",
+    "accepted_rank":"species",
+    "accepted_no":256104,
+    "max_ma":7.246,
+    "abund_value":1,
+    "cc":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.299999,48.110001 ]
+    },
+    "properties": {
+    "FIELD1":181,
+    "accepted_name":"Camponotus ullrichi",
+    "accepted_rank":"species",
+    "accepted_no":256105,
+    "max_ma":7.246,
+    "abund_value":1,
+    "cc":"AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":182,
+    "accepted_name":"Ponerites gracilior",
+    "accepted_rank":"species",
+    "accepted_no":297322,
+    "max_ma":12.7,
+    "abund_value":2,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":183,
+    "accepted_name":"Lonchomyrmex freyeri",
+    "accepted_rank":"species",
+    "accepted_no":256196,
+    "max_ma":12.7,
+    "abund_value":2,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":184,
+    "accepted_name":"Ponerites elongatus",
+    "accepted_rank":"species",
+    "accepted_no":256202,
+    "max_ma":12.7,
+    "abund_value":5,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":185,
+    "accepted_name":"Poneropsis escheri",
+    "accepted_rank":"species",
+    "accepted_no":256203,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":186,
+    "accepted_name":"Lasius anthracinus",
+    "accepted_rank":"species",
+    "accepted_no":256206,
+    "max_ma":12.7,
+    "abund_value":7,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":187,
+    "accepted_name":"Ponerites tenuis",
+    "accepted_rank":"species",
+    "accepted_no":256208,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.933333,47.666668 ]
+    },
+    "properties": {
+    "FIELD1":188,
+    "accepted_name":"Poneropsis stygia",
+    "accepted_rank":"species",
+    "accepted_no":256215,
+    "max_ma":12.7,
+    "abund_value":4,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":189,
+    "accepted_name":"Attopsis longipes",
+    "accepted_rank":"species",
+    "accepted_no":207332,
+    "max_ma":12.7,
+    "abund_value":2,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.610001,44.889999 ]
+    },
+    "properties": {
+    "FIELD1":190,
+    "accepted_name":"Ponerites umbrus",
+    "accepted_rank":"species",
+    "accepted_no":256237,
+    "max_ma":15.97,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.880001,42 ]
+    },
+    "properties": {
+    "FIELD1":191,
+    "accepted_name":"Formica martynovi",
+    "accepted_rank":"species",
+    "accepted_no":256234,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"GE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.36,50.737999 ]
+    },
+    "properties": {
+    "FIELD1":192,
+    "accepted_name":"Ponerites crawleyi",
+    "accepted_rank":"species",
+    "accepted_no":256240,
+    "max_ma":38,
+    "abund_value":6,
+    "cc":"UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.36,50.737999 ]
+    },
+    "properties": {
+    "FIELD1":193,
+    "accepted_name":"Camponotus cockerelli",
+    "accepted_rank":"species",
+    "accepted_no":256246,
+    "max_ma":38,
+    "abund_value":4,
+    "cc":"UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.36,50.737999 ]
+    },
+    "properties": {
+    "FIELD1":194,
+    "accepted_name":"Leucotaphus donisthorpei",
+    "accepted_rank":"species",
+    "accepted_no":298458,
+    "max_ma":38,
+    "abund_value":6,
+    "cc":"UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.24,50.759998 ]
+    },
+    "properties": {
+    "FIELD1":195,
+    "accepted_name":"Camponotus novotnyi",
+    "accepted_rank":"species",
+    "accepted_no":256256,
+    "max_ma":33.9,
+    "abund_value":1,
+    "cc":"CZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.005,45.143002 ]
+    },
+    "properties": {
+    "FIELD1":196,
+    "accepted_name":"Formica cantalica",
+    "accepted_rank":"species",
+    "accepted_no":256262,
+    "max_ma":11.62,
+    "abund_value":1,
+    "cc":"FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.884,45.119999 ]
+    },
+    "properties": {
+    "FIELD1":197,
+    "accepted_name":"Formica auxillacensis",
+    "accepted_rank":"species",
+    "accepted_no":256270,
+    "max_ma":7.246,
+    "abund_value":1,
+    "cc":"FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.005,45.143002 ]
+    },
+    "properties": {
+    "FIELD1":198,
+    "accepted_name":"Lasius crispus",
+    "accepted_rank":"species",
+    "accepted_no":256274,
+    "max_ma":11.62,
+    "abund_value":1,
+    "cc":"FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.005,45.143002 ]
+    },
+    "properties": {
+    "FIELD1":199,
+    "accepted_name":"Camponotus obesus",
+    "accepted_rank":"species",
+    "accepted_no":256261,
+    "max_ma":11.62,
+    "abund_value":1,
+    "cc":"FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.92,45.57 ]
+    },
+    "properties": {
+    "FIELD1":200,
+    "accepted_name":"Lasius chambonensis",
+    "accepted_rank":"species",
+    "accepted_no":256277,
+    "max_ma":2.588,
+    "abund_value":2,
+    "cc":"FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.92,45.57 ]
+    },
+    "properties": {
+    "FIELD1":201,
+    "accepted_name":"Formica pitoni",
+    "accepted_rank":"species",
+    "accepted_no":256278,
+    "max_ma":2.588,
+    "abund_value":1,
+    "cc":"FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.92,45.57 ]
+    },
+    "properties": {
+    "FIELD1":202,
+    "accepted_name":"Carebara antiqua",
+    "accepted_rank":"species",
+    "accepted_no":256035,
+    "max_ma":2.588,
+    "abund_value":1,
+    "cc":"FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.884,45.119999 ]
+    },
+    "properties": {
+    "FIELD1":203,
+    "accepted_name":"Formica maculipennis",
+    "accepted_rank":"species",
+    "accepted_no":256279,
+    "max_ma":7.246,
+    "abund_value":1,
+    "cc":"FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":204,
+    "accepted_name":"Archiponera wheeleri",
+    "accepted_rank":"species",
+    "accepted_no":255888,
+    "max_ma":37.2,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":205,
+    "accepted_name":"Pseudomyrmex extinctus",
+    "accepted_rank":"species",
+    "accepted_no":255890,
+    "max_ma":37.2,
+    "abund_value":2,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":206,
+    "accepted_name":"Aphaenogaster mayri",
+    "accepted_rank":"species",
+    "accepted_no":255891,
+    "max_ma":37.2,
+    "abund_value":17,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":207,
+    "accepted_name":"Aphaenogaster donisthorpei",
+    "accepted_rank":"species",
+    "accepted_no":255892,
+    "max_ma":37.2,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":208,
+    "accepted_name":"Messor sculpturatus",
+    "accepted_rank":"species",
+    "accepted_no":255893,
+    "max_ma":37.2,
+    "abund_value":2,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":209,
+    "accepted_name":"Pheidole tertiaria",
+    "accepted_rank":"species",
+    "accepted_no":255894,
+    "max_ma":37.2,
+    "abund_value":2,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":210,
+    "accepted_name":"Pogonomyrmex fossilis",
+    "accepted_rank":"species",
+    "accepted_no":255895,
+    "max_ma":37.2,
+    "abund_value":4,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":211,
+    "accepted_name":"Eulithomyrmex rugosus",
+    "accepted_rank":"species",
+    "accepted_no":255898,
+    "max_ma":37.2,
+    "abund_value":7,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":212,
+    "accepted_name":"Eulithomyrmex striatus",
+    "accepted_rank":"species",
+    "accepted_no":255899,
+    "max_ma":37.2,
+    "abund_value":2,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":213,
+    "accepted_name":"Cephalomyrmex rotundatus",
+    "accepted_rank":"species",
+    "accepted_no":255900,
+    "max_ma":37.2,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":214,
+    "accepted_name":"Mianeuretus mirabilis",
+    "accepted_rank":"species",
+    "accepted_no":255901,
+    "max_ma":37.2,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":215,
+    "accepted_name":"Dolichoderus antiquus",
+    "accepted_rank":"species",
+    "accepted_no":255902,
+    "max_ma":37.2,
+    "abund_value":2,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":216,
+    "accepted_name":"Dolichoderus rohweri",
+    "accepted_rank":"species",
+    "accepted_no":255903,
+    "max_ma":37.2,
+    "abund_value":2,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":217,
+    "accepted_name":"Protazteca elongata",
+    "accepted_rank":"species",
+    "accepted_no":255904,
+    "max_ma":37.2,
+    "abund_value":17,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":218,
+    "accepted_name":"Protazteca quadrata",
+    "accepted_rank":"species",
+    "accepted_no":255905,
+    "max_ma":37.2,
+    "abund_value":4,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":219,
+    "accepted_name":"Protazteca capitata",
+    "accepted_rank":"species",
+    "accepted_no":255906,
+    "max_ma":37.2,
+    "abund_value":2,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":220,
+    "accepted_name":"Liometopum miocenicum",
+    "accepted_rank":"species",
+    "accepted_no":255907,
+    "max_ma":37.2,
+    "abund_value":22,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":221,
+    "accepted_name":"Liometopum scudderi",
+    "accepted_rank":"species",
+    "accepted_no":255908,
+    "max_ma":37.2,
+    "abund_value":5,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":222,
+    "accepted_name":"Elaeomyrmex gracilis",
+    "accepted_rank":"species",
+    "accepted_no":255909,
+    "max_ma":37.2,
+    "abund_value":4,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":223,
+    "accepted_name":"Elaeomyrmex coloradensis",
+    "accepted_rank":"species",
+    "accepted_no":255910,
+    "max_ma":37.2,
+    "abund_value":5,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":224,
+    "accepted_name":"Miomyrmex striatus",
+    "accepted_rank":"species",
+    "accepted_no":255916,
+    "max_ma":37.2,
+    "abund_value":3,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":225,
+    "accepted_name":"Petraeomyrmex minimus",
+    "accepted_rank":"species",
+    "accepted_no":255917,
+    "max_ma":37.2,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":226,
+    "accepted_name":"Formica robusta",
+    "accepted_rank":"species",
+    "accepted_no":255918,
+    "max_ma":37.2,
+    "abund_value":11,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":227,
+    "accepted_name":"Formica cockerelli",
+    "accepted_rank":"species",
+    "accepted_no":255919,
+    "max_ma":37.2,
+    "abund_value":2,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":228,
+    "accepted_name":"Formica grandis",
+    "accepted_rank":"species",
+    "accepted_no":255920,
+    "max_ma":37.2,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":229,
+    "accepted_name":"Camponotus fuscipennis",
+    "accepted_rank":"species",
+    "accepted_no":255924,
+    "max_ma":37.2,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":230,
+    "accepted_name":"Camponotus microcephalus",
+    "accepted_rank":"species",
+    "accepted_no":255925,
+    "max_ma":37.2,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":231,
+    "accepted_name":"Camponotus petrifactus",
+    "accepted_rank":"species",
+    "accepted_no":255926,
+    "max_ma":37.2,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.535,50.080002 ]
+    },
+    "properties": {
+    "FIELD1":232,
+    "accepted_name":"Carebara bohemica",
+    "accepted_rank":"species",
+    "accepted_no":256530,
+    "max_ma":16.9,
+    "abund_value":1,
+    "cc":"CZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.535,50.080002 ]
+    },
+    "properties": {
+    "FIELD1":233,
+    "accepted_name":"Formica buphthalma",
+    "accepted_rank":"species",
+    "accepted_no":256532,
+    "max_ma":16.9,
+    "abund_value":1,
+    "cc":"CZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.454,43.523998 ]
+    },
+    "properties": {
+    "FIELD1":234,
+    "accepted_name":"Carebara thorali",
+    "accepted_rank":"species",
+    "accepted_no":256548,
+    "max_ma":28.1,
+    "abund_value":1,
+    "cc":"FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.299999,-20.155001 ]
+    },
+    "properties": {
+    "FIELD1":235,
+    "accepted_name":"Fonsecahymen stigmata",
+    "accepted_rank":"species",
+    "accepted_no":256893,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"BR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.339996,36.412998 ]
+    },
+    "properties": {
+    "FIELD1":236,
+    "accepted_name":"Formicium berryi",
+    "accepted_rank":"species",
+    "accepted_no":256923,
+    "max_ma":41.3,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":237,
+    "accepted_name":"Titanomyrma simillima",
+    "accepted_rank":"species",
+    "accepted_no":184425,
+    "max_ma":48.6,
+    "abund_value":29,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":238,
+    "accepted_name":"Titanomyrma gigantea",
+    "accepted_rank":"species",
+    "accepted_no":184420,
+    "max_ma":48.6,
+    "abund_value":102,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.819,50.113998 ]
+    },
+    "properties": {
+    "FIELD1":239,
+    "accepted_name":"Gesomyrmex germanicus",
+    "accepted_rank":"species",
+    "accepted_no":256962,
+    "max_ma":48.6,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.819,50.113998 ]
+    },
+    "properties": {
+    "FIELD1":240,
+    "accepted_name":"Gesomyrmex flavescens",
+    "accepted_rank":"species",
+    "accepted_no":256963,
+    "max_ma":48.6,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":241,
+    "accepted_name":"Gesomyrmex pulcher",
+    "accepted_rank":"species",
+    "accepted_no":256964,
+    "max_ma":48.6,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75,49.933334 ]
+    },
+    "properties": {
+    "FIELD1":242,
+    "accepted_name":"Gesomyrmex breviceps",
+    "accepted_rank":"species",
+    "accepted_no":256965,
+    "max_ma":48.6,
+    "abund_value":3,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.48,48.299999 ]
+    },
+    "properties": {
+    "FIELD1":243,
+    "accepted_name":"Lasius tertiarius",
+    "accepted_rank":"species",
+    "accepted_no":257032,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"UA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":244,
+    "accepted_name":"Lasius peritulus",
+    "accepted_rank":"species",
+    "accepted_no":255922,
+    "max_ma":37.2,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":245,
+    "accepted_name":"Miomyrmex impactus",
+    "accepted_rank":"species",
+    "accepted_no":255914,
+    "max_ma":37.2,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.799999,51.028 ]
+    },
+    "properties": {
+    "FIELD1":246,
+    "accepted_name":"Lasius oblongus",
+    "accepted_rank":"species",
+    "accepted_no":257035,
+    "max_ma":11.608,
+    "abund_value":1,
+    "cc":"PL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.799999,51.028 ]
+    },
+    "properties": {
+    "FIELD1":247,
+    "accepted_name":"Lonchomyrmex nigritus",
+    "accepted_rank":"species",
+    "accepted_no":257036,
+    "max_ma":11.608,
+    "abund_value":1,
+    "cc":"PL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.799999,51.028 ]
+    },
+    "properties": {
+    "FIELD1":248,
+    "accepted_name":"Carebara schossnicensis",
+    "accepted_rank":"species",
+    "accepted_no":257037,
+    "max_ma":11.608,
+    "abund_value":3,
+    "cc":"PL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.262,50.747002 ]
+    },
+    "properties": {
+    "FIELD1":249,
+    "accepted_name":"Ponera elegantissima",
+    "accepted_rank":"species",
+    "accepted_no":257133,
+    "max_ma":28.4,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.262,50.747002 ]
+    },
+    "properties": {
+    "FIELD1":250,
+    "accepted_name":"Poneropsis rhenana",
+    "accepted_rank":"species",
+    "accepted_no":257135,
+    "max_ma":28.4,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.99,56.84 ]
+    },
+    "properties": {
+    "FIELD1":251,
+    "accepted_name":"Ypresiomyrma rebekkae",
+    "accepted_rank":"species",
+    "accepted_no":204819,
+    "max_ma":56,
+    "abund_value":100,
+    "cc":"DK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":252,
+    "accepted_name":"Paraphaenogaster dumetorum",
+    "accepted_rank":"species",
+    "accepted_no":257300,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":253,
+    "accepted_name":"Dolichoderus luridivenosus",
+    "accepted_rank":"species",
+    "accepted_no":257302,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":254,
+    "accepted_name":"Dolichoderus transversipetiolaris",
+    "accepted_rank":"species",
+    "accepted_no":257303,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":255,
+    "accepted_name":"Liometopum lubricum",
+    "accepted_rank":"species",
+    "accepted_no":257304,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":256,
+    "accepted_name":"Alloiomma differentialis",
+    "accepted_rank":"species",
+    "accepted_no":257305,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":257,
+    "accepted_name":"Eurymyrmex geologicus",
+    "accepted_rank":"species",
+    "accepted_no":257306,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":258,
+    "accepted_name":"Formica flavifemoralis",
+    "accepted_rank":"species",
+    "accepted_no":257307,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.714996,36.549999 ]
+    },
+    "properties": {
+    "FIELD1":259,
+    "accepted_name":"Camponotus pictus",
+    "accepted_rank":"species",
+    "accepted_no":257308,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"CN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.36,50.737999 ]
+    },
+    "properties": {
+    "FIELD1":260,
+    "accepted_name":"Formicium brodiei",
+    "accepted_rank":"species",
+    "accepted_no":184426,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.283333,38.916668 ]
+    },
+    "properties": {
+    "FIELD1":261,
+    "accepted_name":"Protazteca hendersoni",
+    "accepted_rank":"species",
+    "accepted_no":255927,
+    "max_ma":37.2,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.359167 ]
+    },
+    "properties": {
+    "FIELD1":262,
+    "accepted_name":"Zigrasimecia ferox",
+    "accepted_rank":"species",
+    "accepted_no":288266,
+    "max_ma":99.6,
+    "abund_value":7,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.59,54.439999 ]
+    },
+    "properties": {
+    "FIELD1":263,
+    "accepted_name":"Yantaromyrmex geinitzi",
+    "accepted_rank":"species",
+    "accepted_no":210989,
+    "max_ma":38,
+    "abund_value":35,
+    "cc":"PL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.940001,54.869999 ]
+    },
+    "properties": {
+    "FIELD1":264,
+    "accepted_name":"Yantaromyrmex mayrianum",
+    "accepted_rank":"species",
+    "accepted_no":288332,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.359167 ]
+    },
+    "properties": {
+    "FIELD1":265,
+    "accepted_name":"Gerontoformica contegus",
+    "accepted_rank":"species",
+    "accepted_no":291178,
+    "max_ma":99.6,
+    "abund_value":2,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.359167 ]
+    },
+    "properties": {
+    "FIELD1":266,
+    "accepted_name":"Gerontoformica gracilis",
+    "accepted_rank":"species",
+    "accepted_no":291179,
+    "max_ma":99.6,
+    "abund_value":2,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.359167 ]
+    },
+    "properties": {
+    "FIELD1":267,
+    "accepted_name":"Gerontoformica magnus",
+    "accepted_rank":"species",
+    "accepted_no":291180,
+    "max_ma":99.6,
+    "abund_value":3,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.359167 ]
+    },
+    "properties": {
+    "FIELD1":268,
+    "accepted_name":"Gerontoformica pilosus",
+    "accepted_rank":"species",
+    "accepted_no":291181,
+    "max_ma":99.6,
+    "abund_value":1,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.359167 ]
+    },
+    "properties": {
+    "FIELD1":269,
+    "accepted_name":"Gerontoformica robustus",
+    "accepted_rank":"species",
+    "accepted_no":291182,
+    "max_ma":99.6,
+    "abund_value":3,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.359167 ]
+    },
+    "properties": {
+    "FIELD1":270,
+    "accepted_name":"Gerontoformica rugosus",
+    "accepted_rank":"species",
+    "accepted_no":291183,
+    "max_ma":99.6,
+    "abund_value":1,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.359167 ]
+    },
+    "properties": {
+    "FIELD1":271,
+    "accepted_name":"Gerontoformica spiralis",
+    "accepted_rank":"species",
+    "accepted_no":291184,
+    "max_ma":99.6,
+    "abund_value":25,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.359167 ]
+    },
+    "properties": {
+    "FIELD1":272,
+    "accepted_name":"Gerontoformica subcuspis",
+    "accepted_rank":"species",
+    "accepted_no":291185,
+    "max_ma":99.6,
+    "abund_value":3,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.359167 ]
+    },
+    "properties": {
+    "FIELD1":273,
+    "accepted_name":"Gerontoformica tendir",
+    "accepted_rank":"species",
+    "accepted_no":291186,
+    "max_ma":99.6,
+    "abund_value":3,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.360001 ]
+    },
+    "properties": {
+    "FIELD1":274,
+    "accepted_name":"Haidomyrmex scimitarus",
+    "accepted_rank":"species",
+    "accepted_no":255309,
+    "max_ma":99.6,
+    "abund_value":1,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.359167 ]
+    },
+    "properties": {
+    "FIELD1":275,
+    "accepted_name":"Haidomyrmex zigrasi",
+    "accepted_rank":"species",
+    "accepted_no":255310,
+    "max_ma":99.6,
+    "abund_value":2,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.605003,19.549999 ]
+    },
+    "properties": {
+    "FIELD1":276,
+    "accepted_name":"Trachymyrmex primaevus",
+    "accepted_rank":"species",
+    "accepted_no":257175,
+    "max_ma":20.44,
+    "abund_value":9,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.605003,19.549999 ]
+    },
+    "properties": {
+    "FIELD1":277,
+    "accepted_name":"Pheidole primigenia",
+    "accepted_rank":"species",
+    "accepted_no":257117,
+    "max_ma":20.44,
+    "abund_value":3,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.940001,54.869999 ]
+    },
+    "properties": {
+    "FIELD1":278,
+    "accepted_name":"Prionomyrmex janzeni",
+    "accepted_rank":"species",
+    "accepted_no":204944,
+    "max_ma":38,
+    "abund_value":2,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.605003,19.549999 ]
+    },
+    "properties": {
+    "FIELD1":279,
+    "accepted_name":"Leptomyrmex neotropicus",
+    "accepted_rank":"species",
+    "accepted_no":256120,
+    "max_ma":20.44,
+    "abund_value":17,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.359167 ]
+    },
+    "properties": {
+    "FIELD1":280,
+    "accepted_name":"Zigrasimecia tonsora",
+    "accepted_rank":"species",
+    "accepted_no":271680,
+    "max_ma":99.6,
+    "abund_value":1,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.605003,19.549999 ]
+    },
+    "properties": {
+    "FIELD1":281,
+    "accepted_name":"Anochetus corayi",
+    "accepted_rank":"species",
+    "accepted_no":256020,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.605003,19.549999 ]
+    },
+    "properties": {
+    "FIELD1":282,
+    "accepted_name":"Gnamptogenys pristina",
+    "accepted_rank":"species",
+    "accepted_no":256969,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.605003,19.549999 ]
+    },
+    "properties": {
+    "FIELD1":283,
+    "accepted_name":"Gnamptogenys levinates",
+    "accepted_rank":"species",
+    "accepted_no":256970,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.605003,19.549999 ]
+    },
+    "properties": {
+    "FIELD1":284,
+    "accepted_name":"Paraponera dieteri",
+    "accepted_rank":"species",
+    "accepted_no":219372,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.605003,19.549999 ]
+    },
+    "properties": {
+    "FIELD1":285,
+    "accepted_name":"Strumigenys schleeorum",
+    "accepted_rank":"species",
+    "accepted_no":256007,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.605003,19.549999 ]
+    },
+    "properties": {
+    "FIELD1":286,
+    "accepted_name":"Strumigenys electrina",
+    "accepted_rank":"species",
+    "accepted_no":256009,
+    "max_ma":20.44,
+    "abund_value":5,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.75,19.583332 ]
+    },
+    "properties": {
+    "FIELD1":287,
+    "accepted_name":"Acanthognathus poinari",
+    "accepted_rank":"species",
+    "accepted_no":256008,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.75,19.583332 ]
+    },
+    "properties": {
+    "FIELD1":288,
+    "accepted_name":"Proceratium denticulatum",
+    "accepted_rank":"species",
+    "accepted_no":257138,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.599998,19.549999 ]
+    },
+    "properties": {
+    "FIELD1":289,
+    "accepted_name":"Proceratium gibberum",
+    "accepted_rank":"species",
+    "accepted_no":219344,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.75,19.583332 ]
+    },
+    "properties": {
+    "FIELD1":290,
+    "accepted_name":"Proceratium poinari",
+    "accepted_rank":"species",
+    "accepted_no":219343,
+    "max_ma":20.44,
+    "abund_value":9,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.75,19.583332 ]
+    },
+    "properties": {
+    "FIELD1":291,
+    "accepted_name":"Proceratium dominicanum",
+    "accepted_rank":"species",
+    "accepted_no":219352,
+    "max_ma":20.44,
+    "abund_value":4,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.682,44.678001 ]
+    },
+    "properties": {
+    "FIELD1":292,
+    "accepted_name":"Camponotus crozei",
+    "accepted_rank":"species",
+    "accepted_no":294957,
+    "max_ma":8.7,
+    "abund_value":1,
+    "cc":"FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.682,44.678001 ]
+    },
+    "properties": {
+    "FIELD1":293,
+    "accepted_name":"Oecophylla grandimandibula",
+    "accepted_rank":"species",
+    "accepted_no":294958,
+    "max_ma":8.7,
+    "abund_value":1,
+    "cc":"FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.75,19.583332 ]
+    },
+    "properties": {
+    "FIELD1":294,
+    "accepted_name":"Cephalotes serratus",
+    "accepted_rank":"species",
+    "accepted_no":226335,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.75,19.583332 ]
+    },
+    "properties": {
+    "FIELD1":295,
+    "accepted_name":"Cephalotes jansei",
+    "accepted_rank":"species",
+    "accepted_no":226338,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.75,19.583332 ]
+    },
+    "properties": {
+    "FIELD1":296,
+    "accepted_name":"Cephalotes integerrimus",
+    "accepted_rank":"species",
+    "accepted_no":226341,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.75,19.583332 ]
+    },
+    "properties": {
+    "FIELD1":297,
+    "accepted_name":"Cephalotes squamosus",
+    "accepted_rank":"species",
+    "accepted_no":226342,
+    "max_ma":20.44,
+    "abund_value":3,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.75,19.583332 ]
+    },
+    "properties": {
+    "FIELD1":298,
+    "accepted_name":"Cephalotes obscurus",
+    "accepted_rank":"species",
+    "accepted_no":226344,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.75,19.583332 ]
+    },
+    "properties": {
+    "FIELD1":299,
+    "accepted_name":"Cephalotes alveolatus",
+    "accepted_rank":"species",
+    "accepted_no":226345,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.164902 ]
+    },
+    "properties": {
+    "FIELD1":300,
+    "accepted_name":"Emplastus antiquus",
+    "accepted_rank":"species",
+    "accepted_no":200634,
+    "max_ma":12.7,
+    "abund_value":3,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":301,
+    "accepted_name":"Heeridris croaticus",
+    "accepted_rank":"species",
+    "accepted_no":297316,
+    "max_ma":12.7,
+    "abund_value":2,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.164902 ]
+    },
+    "properties": {
+    "FIELD1":302,
+    "accepted_name":"Formica parexsecta",
+    "accepted_rank":"species",
+    "accepted_no":297317,
+    "max_ma":12.7,
+    "abund_value":1,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.164902 ]
+    },
+    "properties": {
+    "FIELD1":303,
+    "accepted_name":"Ponerites oblongiceps",
+    "accepted_rank":"species",
+    "accepted_no":297323,
+    "max_ma":12.7,
+    "abund_value":2,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":304,
+    "accepted_name":"Ponerites nitidus",
+    "accepted_rank":"species",
+    "accepted_no":200742,
+    "max_ma":12.7,
+    "abund_value":2,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.918,46.165001 ]
+    },
+    "properties": {
+    "FIELD1":305,
+    "accepted_name":"Myrmecites latus",
+    "accepted_rank":"species",
+    "accepted_no":297330,
+    "max_ma":12.7,
+    "abund_value":2,
+    "cc":"HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.36,50.737999 ]
+    },
+    "properties": {
+    "FIELD1":306,
+    "accepted_name":"Dolichoderus vectensis",
+    "accepted_rank":"species",
+    "accepted_no":256243,
+    "max_ma":38,
+    "abund_value":3,
+    "cc":"UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.36,50.737999 ]
+    },
+    "properties": {
+    "FIELD1":307,
+    "accepted_name":"Emplastus hypolithus",
+    "accepted_rank":"species",
+    "accepted_no":222020,
+    "max_ma":38,
+    "abund_value":2,
+    "cc":"UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.36,50.737999 ]
+    },
+    "properties": {
+    "FIELD1":308,
+    "accepted_name":"Emplastus gurnetensis",
+    "accepted_rank":"species",
+    "accepted_no":256244,
+    "max_ma":38,
+    "abund_value":4,
+    "cc":"UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.378,50.734001 ]
+    },
+    "properties": {
+    "FIELD1":309,
+    "accepted_name":"Emplastus kozlovi",
+    "accepted_rank":"species",
+    "accepted_no":298456,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.36,50.737999 ]
+    },
+    "properties": {
+    "FIELD1":310,
+    "accepted_name":"Ponerites hooleyi",
+    "accepted_rank":"species",
+    "accepted_no":298461,
+    "max_ma":38,
+    "abund_value":2,
+    "cc":"UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.36,50.737999 ]
+    },
+    "properties": {
+    "FIELD1":311,
+    "accepted_name":"Taphopone microptera",
+    "accepted_rank":"species",
+    "accepted_no":298466,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.36,50.737999 ]
+    },
+    "properties": {
+    "FIELD1":312,
+    "accepted_name":"Taphopone petrosa",
+    "accepted_rank":"species",
+    "accepted_no":298467,
+    "max_ma":38,
+    "abund_value":3,
+    "cc":"UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.36,50.737999 ]
+    },
+    "properties": {
+    "FIELD1":313,
+    "accepted_name":"Taphopone aberrans",
+    "accepted_rank":"species",
+    "accepted_no":298468,
+    "max_ma":38,
+    "abund_value":4,
+    "cc":"UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.36,50.737999 ]
+    },
+    "properties": {
+    "FIELD1":314,
+    "accepted_name":"Paraphaenogaster hooleyana",
+    "accepted_rank":"species",
+    "accepted_no":298470,
+    "max_ma":38,
+    "abund_value":2,
+    "cc":"UK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.75,19.583332 ]
+    },
+    "properties": {
+    "FIELD1":315,
+    "accepted_name":"Temnothorax praecreolus",
+    "accepted_rank":"species",
+    "accepted_no":257169,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.940001,54.869999 ]
+    },
+    "properties": {
+    "FIELD1":316,
+    "accepted_name":"Bradoponera wunderlichi",
+    "accepted_rank":"species",
+    "accepted_no":256123,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.75,19.583332 ]
+    },
+    "properties": {
+    "FIELD1":317,
+    "accepted_name":"Platythyrea pumilio",
+    "accepted_rank":"species",
+    "accepted_no":257124,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.699997,17.15 ]
+    },
+    "properties": {
+    "FIELD1":318,
+    "accepted_name":"Cyphomyrmex maya",
+    "accepted_rank":"species",
+    "accepted_no":256583,
+    "max_ma":23.03,
+    "abund_value":1,
+    "cc":"MX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.75,19.583332 ]
+    },
+    "properties": {
+    "FIELD1":319,
+    "accepted_name":"Cyphomyrmex taino",
+    "accepted_rank":"species",
+    "accepted_no":256584,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.605003,19.549999 ]
+    },
+    "properties": {
+    "FIELD1":320,
+    "accepted_name":"Acanthostichus hispaniolicus",
+    "accepted_rank":"species",
+    "accepted_no":256010,
+    "max_ma":20.44,
+    "abund_value":4,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.75,19.583332 ]
+    },
+    "properties": {
+    "FIELD1":321,
+    "accepted_name":"Discothyrea gigas",
+    "accepted_rank":"species",
+    "accepted_no":256585,
+    "max_ma":20.44,
+    "abund_value":3,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.699997,17.15 ]
+    },
+    "properties": {
+    "FIELD1":322,
+    "accepted_name":"Discothyrea maya",
+    "accepted_rank":"species",
+    "accepted_no":256586,
+    "max_ma":23.03,
+    "abund_value":1,
+    "cc":"MX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.359167 ]
+    },
+    "properties": {
+    "FIELD1":323,
+    "accepted_name":"Haidomyrmex cerberus",
+    "accepted_rank":"species",
+    "accepted_no":190434,
+    "max_ma":99.6,
+    "abund_value":1,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.699997,49.825001 ]
+    },
+    "properties": {
+    "FIELD1":324,
+    "accepted_name":"Eotapinoma macalpini",
+    "accepted_rank":"species",
+    "accepted_no":210480,
+    "max_ma":83.5,
+    "abund_value":1,
+    "cc":"CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.699997,49.825001 ]
+    },
+    "properties": {
+    "FIELD1":325,
+    "accepted_name":"Canapone dentata",
+    "accepted_rank":"species",
+    "accepted_no":210483,
+    "max_ma":83.5,
+    "abund_value":1,
+    "cc":"CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.940001,54.869999 ]
+    },
+    "properties": {
+    "FIELD1":326,
+    "accepted_name":"Stigmatomma groehni",
+    "accepted_rank":"species",
+    "accepted_no":256971,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.940001,54.869999 ]
+    },
+    "properties": {
+    "FIELD1":327,
+    "accepted_name":"Stigmatomma electrina",
+    "accepted_rank":"species",
+    "accepted_no":256972,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.605003,19.549999 ]
+    },
+    "properties": {
+    "FIELD1":328,
+    "accepted_name":"Aphaenogaster amphioceanica",
+    "accepted_rank":"species",
+    "accepted_no":256041,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.699997,17.15 ]
+    },
+    "properties": {
+    "FIELD1":329,
+    "accepted_name":"Aphaenogaster praerelicta",
+    "accepted_rank":"species",
+    "accepted_no":256042,
+    "max_ma":23.03,
+    "abund_value":1,
+    "cc":"MX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.059999,55.919998 ]
+    },
+    "properties": {
+    "FIELD1":330,
+    "accepted_name":"Formica flori",
+    "accepted_rank":"species",
+    "accepted_no":210996,
+    "max_ma":38,
+    "abund_value":2,
+    "cc":"LT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.940001,54.869999 ]
+    },
+    "properties": {
+    "FIELD1":331,
+    "accepted_name":"Protomyrmica atavia",
+    "accepted_rank":"species",
+    "accepted_no":257125,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.38,51.615002 ]
+    },
+    "properties": {
+    "FIELD1":332,
+    "accepted_name":"Plesiomyrmex tubulatus",
+    "accepted_rank":"species",
+    "accepted_no":257126,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.59,54.439999 ]
+    },
+    "properties": {
+    "FIELD1":333,
+    "accepted_name":"Eocenomyrma orthospina",
+    "accepted_rank":"species",
+    "accepted_no":256884,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"PL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.940001,54.869999 ]
+    },
+    "properties": {
+    "FIELD1":334,
+    "accepted_name":"Eocenomyrma elegantula",
+    "accepted_rank":"species",
+    "accepted_no":256886,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.59,54.439999 ]
+    },
+    "properties": {
+    "FIELD1":335,
+    "accepted_name":"Eocenomyrma rugosostriata",
+    "accepted_rank":"species",
+    "accepted_no":256033,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"PL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.25,50.599998 ]
+    },
+    "properties": {
+    "FIELD1":336,
+    "accepted_name":"Fallomyrma transversa",
+    "accepted_rank":"species",
+    "accepted_no":256888,
+    "max_ma":38,
+    "abund_value":3,
+    "cc":"UA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.35,55.23 ]
+    },
+    "properties": {
+    "FIELD1":337,
+    "accepted_name":"Pristomyrmex rasnitsyni",
+    "accepted_rank":"species",
+    "accepted_no":257137,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"DK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.633003,19.530001 ]
+    },
+    "properties": {
+    "FIELD1":338,
+    "accepted_name":"Nesomyrmex caritatis",
+    "accepted_rank":"species",
+    "accepted_no":257062,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.75,19.583332 ]
+    },
+    "properties": {
+    "FIELD1":339,
+    "accepted_name":"Nesomyrmex dominicanus",
+    "accepted_rank":"species",
+    "accepted_no":257063,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.940001,54.869999 ]
+    },
+    "properties": {
+    "FIELD1":340,
+    "accepted_name":"Formica phaethusa",
+    "accepted_rank":"species",
+    "accepted_no":230962,
+    "max_ma":38,
+    "abund_value":3,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.605003,19.549999 ]
+    },
+    "properties": {
+    "FIELD1":341,
+    "accepted_name":"Odontomachus spinifer",
+    "accepted_rank":"species",
+    "accepted_no":256011,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.75,19.583332 ]
+    },
+    "properties": {
+    "FIELD1":342,
+    "accepted_name":"Odontomachus pseudobauri",
+    "accepted_rank":"species",
+    "accepted_no":256012,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.605003,19.549999 ]
+    },
+    "properties": {
+    "FIELD1":343,
+    "accepted_name":"Anochetus exstinctus",
+    "accepted_rank":"species",
+    "accepted_no":256013,
+    "max_ma":20.44,
+    "abund_value":2,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.75,19.583332 ]
+    },
+    "properties": {
+    "FIELD1":344,
+    "accepted_name":"Anochetus intermedius",
+    "accepted_rank":"species",
+    "accepted_no":256014,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.605003,19.549999 ]
+    },
+    "properties": {
+    "FIELD1":345,
+    "accepted_name":"Anochetus dubius",
+    "accepted_rank":"species",
+    "accepted_no":256015,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.605003,19.549999 ]
+    },
+    "properties": {
+    "FIELD1":346,
+    "accepted_name":"Anochetus ambiguus",
+    "accepted_rank":"species",
+    "accepted_no":256016,
+    "max_ma":20.44,
+    "abund_value":2,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.605003,19.545 ]
+    },
+    "properties": {
+    "FIELD1":347,
+    "accepted_name":"Anochetus brevidentatus",
+    "accepted_rank":"species",
+    "accepted_no":256017,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.605003,19.549999 ]
+    },
+    "properties": {
+    "FIELD1":348,
+    "accepted_name":"Anochetus lucidus",
+    "accepted_rank":"species",
+    "accepted_no":256018,
+    "max_ma":20.44,
+    "abund_value":2,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.605003,19.549999 ]
+    },
+    "properties": {
+    "FIELD1":349,
+    "accepted_name":"Anochetus conisquamis",
+    "accepted_rank":"species",
+    "accepted_no":256019,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.783333,2.7 ]
+    },
+    "properties": {
+    "FIELD1":350,
+    "accepted_name":"Cataulacus plebeius",
+    "accepted_rank":"species",
+    "accepted_no":256577,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"MY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.09,37.400002 ]
+    },
+    "properties": {
+    "FIELD1":351,
+    "accepted_name":"Ectatomma gracile",
+    "accepted_rank":"species",
+    "accepted_no":256535,
+    "max_ma":11.608,
+    "abund_value":1,
+    "cc":"IT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.09,37.400002 ]
+    },
+    "properties": {
+    "FIELD1":352,
+    "accepted_name":"Ponera leptocephala",
+    "accepted_rank":"species",
+    "accepted_no":256536,
+    "max_ma":11.608,
+    "abund_value":1,
+    "cc":"IT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.09,37.400002 ]
+    },
+    "properties": {
+    "FIELD1":353,
+    "accepted_name":"Cataulacus planiceps",
+    "accepted_rank":"species",
+    "accepted_no":256538,
+    "max_ma":11.608,
+    "abund_value":2,
+    "cc":"IT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.09,37.400002 ]
+    },
+    "properties": {
+    "FIELD1":354,
+    "accepted_name":"Cataulacus silvestrii",
+    "accepted_rank":"species",
+    "accepted_no":256537,
+    "max_ma":11.608,
+    "abund_value":1,
+    "cc":"IT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.09,37.400002 ]
+    },
+    "properties": {
+    "FIELD1":355,
+    "accepted_name":"Hypopomyrmex bombiccii",
+    "accepted_rank":"species",
+    "accepted_no":215784,
+    "max_ma":11.608,
+    "abund_value":1,
+    "cc":"IT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.09,37.400002 ]
+    },
+    "properties": {
+    "FIELD1":356,
+    "accepted_name":"Podomyrma mayri",
+    "accepted_rank":"species",
+    "accepted_no":255871,
+    "max_ma":11.608,
+    "abund_value":7,
+    "cc":"IT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.09,37.400002 ]
+    },
+    "properties": {
+    "FIELD1":357,
+    "accepted_name":"Carebara sophiae",
+    "accepted_rank":"species",
+    "accepted_no":256539,
+    "max_ma":11.608,
+    "abund_value":7,
+    "cc":"IT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.09,37.400002 ]
+    },
+    "properties": {
+    "FIELD1":358,
+    "accepted_name":"Leptomyrmula maravignae",
+    "accepted_rank":"species",
+    "accepted_no":256541,
+    "max_ma":11.608,
+    "abund_value":1,
+    "cc":"IT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.09,37.400002 ]
+    },
+    "properties": {
+    "FIELD1":359,
+    "accepted_name":"Tapinoma minutissimum",
+    "accepted_rank":"species",
+    "accepted_no":256542,
+    "max_ma":11.608,
+    "abund_value":1,
+    "cc":"IT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.09,37.400002 ]
+    },
+    "properties": {
+    "FIELD1":360,
+    "accepted_name":"Technomyrmex deletus",
+    "accepted_rank":"species",
+    "accepted_no":256543,
+    "max_ma":11.608,
+    "abund_value":1,
+    "cc":"IT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.09,37.400002 ]
+    },
+    "properties": {
+    "FIELD1":361,
+    "accepted_name":"Plagiolepis labilis",
+    "accepted_rank":"species",
+    "accepted_no":256544,
+    "max_ma":11.608,
+    "abund_value":11,
+    "cc":"IT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.09,37.400002 ]
+    },
+    "properties": {
+    "FIELD1":362,
+    "accepted_name":"Oecophylla sicula",
+    "accepted_rank":"species",
+    "accepted_no":256545,
+    "max_ma":11.608,
+    "abund_value":2,
+    "cc":"IT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.09,37.400002 ]
+    },
+    "properties": {
+    "FIELD1":363,
+    "accepted_name":"Sicilomyrmex corniger",
+    "accepted_rank":"species",
+    "accepted_no":215785,
+    "max_ma":11.608,
+    "abund_value":1,
+    "cc":"IT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.940001,54.869999 ]
+    },
+    "properties": {
+    "FIELD1":364,
+    "accepted_name":"Gesomyrmex hoernesi",
+    "accepted_rank":"species",
+    "accepted_no":210994,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.729,50.571999 ]
+    },
+    "properties": {
+    "FIELD1":365,
+    "accepted_name":"Odontomachus paleomyagra",
+    "accepted_rank":"species",
+    "accepted_no":309284,
+    "max_ma":20,
+    "abund_value":1,
+    "cc":"CZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.695,45.935001 ]
+    },
+    "properties": {
+    "FIELD1":366,
+    "accepted_name":"Baikuris maximus",
+    "accepted_rank":"species",
+    "accepted_no":310599,
+    "max_ma":105.3,
+    "abund_value":1,
+    "cc":"FR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.35,55.23 ]
+    },
+    "properties": {
+    "FIELD1":367,
+    "accepted_name":"Usomyrma mirabilis",
+    "accepted_rank":"species",
+    "accepted_no":310990,
+    "max_ma":38,
+    "abund_value":2,
+    "cc":"DK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.75,19.583332 ]
+    },
+    "properties": {
+    "FIELD1":368,
+    "accepted_name":"Apterostigma electropilosum",
+    "accepted_rank":"species",
+    "accepted_no":229064,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.75,19.583332 ]
+    },
+    "properties": {
+    "FIELD1":369,
+    "accepted_name":"Apterostigma eowilsoni",
+    "accepted_rank":"species",
+    "accepted_no":229065,
+    "max_ma":20.44,
+    "abund_value":1,
+    "cc":"DO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.889999,51.310001 ]
+    },
+    "properties": {
+    "FIELD1":370,
+    "accepted_name":"Bilobomyrma ukrainica",
+    "accepted_rank":"species",
+    "accepted_no":281827,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"UA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.940001,54.869999 ]
+    },
+    "properties": {
+    "FIELD1":371,
+    "accepted_name":"Bilobomyrma baltica",
+    "accepted_rank":"species",
+    "accepted_no":281828,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.889999,51.310001 ]
+    },
+    "properties": {
+    "FIELD1":372,
+    "accepted_name":"Boltonidris mirabilis",
+    "accepted_rank":"species",
+    "accepted_no":292721,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"UA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.38,51.615002 ]
+    },
+    "properties": {
+    "FIELD1":373,
+    "accepted_name":"Myrmica paradoxa",
+    "accepted_rank":"species",
+    "accepted_no":225289,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.940001,54.869999 ]
+    },
+    "properties": {
+    "FIELD1":374,
+    "accepted_name":"Myrmica eocenica",
+    "accepted_rank":"species",
+    "accepted_no":225291,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.702782,48.391388 ]
+    },
+    "properties": {
+    "FIELD1":375,
+    "accepted_name":"Dolichoderus dlusskyi",
+    "accepted_rank":"species",
+    "accepted_no":324358,
+    "max_ma":47.8,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.702782,48.391388 ]
+    },
+    "properties": {
+    "FIELD1":376,
+    "accepted_name":"Ktunaxia jucunda",
+    "accepted_rank":"species",
+    "accepted_no":324360,
+    "max_ma":47.8,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.702782,48.391388 ]
+    },
+    "properties": {
+    "FIELD1":377,
+    "accepted_name":"Proiridomyrmex rotundatus",
+    "accepted_rank":"species",
+    "accepted_no":324361,
+    "max_ma":47.8,
+    "abund_value":4,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.702782,48.391388 ]
+    },
+    "properties": {
+    "FIELD1":378,
+    "accepted_name":"Protazteca eocenica",
+    "accepted_rank":"species",
+    "accepted_no":324362,
+    "max_ma":47.8,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.702782,48.391388 ]
+    },
+    "properties": {
+    "FIELD1":379,
+    "accepted_name":"Formica annosa",
+    "accepted_rank":"species",
+    "accepted_no":324363,
+    "max_ma":47.8,
+    "abund_value":2,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.702782,48.391388 ]
+    },
+    "properties": {
+    "FIELD1":380,
+    "accepted_name":"Solenopsites abdita",
+    "accepted_rank":"species",
+    "accepted_no":324366,
+    "max_ma":47.8,
+    "abund_value":7,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.702782,48.391388 ]
+    },
+    "properties": {
+    "FIELD1":381,
+    "accepted_name":"Pseudomyrmex saxulum",
+    "accepted_rank":"species",
+    "accepted_no":324368,
+    "max_ma":47.8,
+    "abund_value":1,
+    "cc":"US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.136993,46.639999 ]
+    },
+    "properties": {
+    "FIELD1":382,
+    "accepted_name":"Paraneuretus dubovikoffi",
+    "accepted_rank":"species",
+    "accepted_no":326827,
+    "max_ma":38,
+    "abund_value":2,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.136993,46.639999 ]
+    },
+    "properties": {
+    "FIELD1":383,
+    "accepted_name":"Dolichoderus pinguis",
+    "accepted_rank":"species",
+    "accepted_no":326828,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.136993,46.639999 ]
+    },
+    "properties": {
+    "FIELD1":384,
+    "accepted_name":"Emplastus macrops",
+    "accepted_rank":"species",
+    "accepted_no":326829,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.136993,46.639999 ]
+    },
+    "properties": {
+    "FIELD1":385,
+    "accepted_name":"Emplastus elongatus",
+    "accepted_rank":"species",
+    "accepted_no":326830,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.136993,46.639999 ]
+    },
+    "properties": {
+    "FIELD1":386,
+    "accepted_name":"Emplastus biamoensis",
+    "accepted_rank":"species",
+    "accepted_no":332985,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.136993,46.639999 ]
+    },
+    "properties": {
+    "FIELD1":387,
+    "accepted_name":"Liometopum incognitum",
+    "accepted_rank":"species",
+    "accepted_no":326832,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.136993,46.639999 ]
+    },
+    "properties": {
+    "FIELD1":388,
+    "accepted_name":"Formica biamoensis",
+    "accepted_rank":"species",
+    "accepted_no":326833,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.136993,46.639999 ]
+    },
+    "properties": {
+    "FIELD1":389,
+    "accepted_name":"Formica paleosibirica",
+    "accepted_rank":"species",
+    "accepted_no":326834,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.136993,46.639999 ]
+    },
+    "properties": {
+    "FIELD1":390,
+    "accepted_name":"Gesomyrmex magnus",
+    "accepted_rank":"species",
+    "accepted_no":326835,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.136993,46.639999 ]
+    },
+    "properties": {
+    "FIELD1":391,
+    "accepted_name":"Gesomyrmex macrops",
+    "accepted_rank":"species",
+    "accepted_no":326836,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.136993,46.639999 ]
+    },
+    "properties": {
+    "FIELD1":392,
+    "accepted_name":"Ypresiomyrma orientalis",
+    "accepted_rank":"species",
+    "accepted_no":326838,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.136993,46.639999 ]
+    },
+    "properties": {
+    "FIELD1":393,
+    "accepted_name":"Casaleia orientalis",
+    "accepted_rank":"species",
+    "accepted_no":326839,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.136993,46.639999 ]
+    },
+    "properties": {
+    "FIELD1":394,
+    "accepted_name":"Pachycondyla oligocenica",
+    "accepted_rank":"species",
+    "accepted_no":326840,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.136993,46.639999 ]
+    },
+    "properties": {
+    "FIELD1":395,
+    "accepted_name":"Pachycondyla aberrans",
+    "accepted_rank":"species",
+    "accepted_no":326841,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.136993,46.639999 ]
+    },
+    "properties": {
+    "FIELD1":396,
+    "accepted_name":"Proceratium petrosum",
+    "accepted_rank":"species",
+    "accepted_no":326843,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.136993,46.639999 ]
+    },
+    "properties": {
+    "FIELD1":397,
+    "accepted_name":"Agastomyrma laticeps",
+    "accepted_rank":"species",
+    "accepted_no":326845,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.136993,46.639999 ]
+    },
+    "properties": {
+    "FIELD1":398,
+    "accepted_name":"Biamomyrma zherikhini",
+    "accepted_rank":"species",
+    "accepted_no":326847,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.136993,46.639999 ]
+    },
+    "properties": {
+    "FIELD1":399,
+    "accepted_name":"Biamomyrma rugosa",
+    "accepted_rank":"species",
+    "accepted_no":326849,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.136993,46.639999 ]
+    },
+    "properties": {
+    "FIELD1":400,
+    "accepted_name":"Biamomyrma lata",
+    "accepted_rank":"species",
+    "accepted_no":326848,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.136993,46.639999 ]
+    },
+    "properties": {
+    "FIELD1":401,
+    "accepted_name":"Myrmecites dubius",
+    "accepted_rank":"species",
+    "accepted_no":326851,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.136993,46.639999 ]
+    },
+    "properties": {
+    "FIELD1":402,
+    "accepted_name":"Myrmecites major",
+    "accepted_rank":"species",
+    "accepted_no":326852,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.136993,46.639999 ]
+    },
+    "properties": {
+    "FIELD1":403,
+    "accepted_name":"Myrmecites sibiricus",
+    "accepted_rank":"species",
+    "accepted_no":326850,
+    "max_ma":38,
+    "abund_value":2,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.59,54.439999 ]
+    },
+    "properties": {
+    "FIELD1":404,
+    "accepted_name":"Tetramorium paraarmatum",
+    "accepted_rank":"species",
+    "accepted_no":327789,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"PL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.59,54.439999 ]
+    },
+    "properties": {
+    "FIELD1":405,
+    "accepted_name":"Tetramorium kulickae",
+    "accepted_rank":"species",
+    "accepted_no":327790,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"PL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.17,52.105 ]
+    },
+    "properties": {
+    "FIELD1":406,
+    "accepted_name":"Liometopum bogdassarovi",
+    "accepted_rank":"species",
+    "accepted_no":256870,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"BY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 170.219101,-45.526901 ]
+    },
+    "properties": {
+    "FIELD1":407,
+    "accepted_name":"Rhytidoponera waipiata",
+    "accepted_rank":"species",
+    "accepted_no":340671,
+    "max_ma":23.03,
+    "abund_value":1,
+    "cc":"NZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 170.219101,-45.526901 ]
+    },
+    "properties": {
+    "FIELD1":408,
+    "accepted_name":"Rhytidoponera gibsoni",
+    "accepted_rank":"species",
+    "accepted_no":340672,
+    "max_ma":23.03,
+    "abund_value":1,
+    "cc":"NZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 170.219101,-45.526901 ]
+    },
+    "properties": {
+    "FIELD1":409,
+    "accepted_name":"Austroponera schneideri",
+    "accepted_rank":"species",
+    "accepted_no":340674,
+    "max_ma":23.03,
+    "abund_value":1,
+    "cc":"NZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 170.219101,-45.526901 ]
+    },
+    "properties": {
+    "FIELD1":410,
+    "accepted_name":"Myrmecorhynchus novaeseelandiae",
+    "accepted_rank":"species",
+    "accepted_no":340676,
+    "max_ma":23.03,
+    "abund_value":1,
+    "cc":"NZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.359167 ]
+    },
+    "properties": {
+    "FIELD1":411,
+    "accepted_name":"Ceratomyrmex ellenbergeri",
+    "accepted_rank":"species",
+    "accepted_no":342092,
+    "max_ma":99.6,
+    "abund_value":1,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.889999,51.310001 ]
+    },
+    "properties": {
+    "FIELD1":412,
+    "accepted_name":"Eocenomyrma ukrainica",
+    "accepted_rank":"species",
+    "accepted_no":349517,
+    "max_ma":38,
+    "abund_value":2,
+    "cc":"UA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.889999,51.310001 ]
+    },
+    "properties": {
+    "FIELD1":413,
+    "accepted_name":"Eocenomyrma breviscapa",
+    "accepted_rank":"species",
+    "accepted_no":349518,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"UA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.940001,54.869999 ]
+    },
+    "properties": {
+    "FIELD1":414,
+    "accepted_name":"Eocenomyrma groehni",
+    "accepted_rank":"species",
+    "accepted_no":419407,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.133331,10.116667 ]
+    },
+    "properties": {
+    "FIELD1":415,
+    "accepted_name":"Melissotarsus ethiopiensis",
+    "accepted_rank":"species",
+    "accepted_no":349520,
+    "max_ma":23.03,
+    "abund_value":1,
+    "cc":"ET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.764999,47.439999 ]
+    },
+    "properties": {
+    "FIELD1":416,
+    "accepted_name":"Aphaenogaster dlusskyana",
+    "accepted_rank":"species",
+    "accepted_no":349560,
+    "max_ma":47.8,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.940001,54.869999 ]
+    },
+    "properties": {
+    "FIELD1":417,
+    "accepted_name":"Thanacomyrmex hoffeinsorum",
+    "accepted_rank":"species",
+    "accepted_no":397510,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.359167 ]
+    },
+    "properties": {
+    "FIELD1":418,
+    "accepted_name":"Dhagnathos autokrator",
+    "accepted_rank":"species",
+    "accepted_no":405291,
+    "max_ma":99.6,
+    "abund_value":1,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.359167 ]
+    },
+    "properties": {
+    "FIELD1":419,
+    "accepted_name":"Chonidris insolita",
+    "accepted_rank":"species",
+    "accepted_no":405293,
+    "max_ma":99.6,
+    "abund_value":1,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.359167 ]
+    },
+    "properties": {
+    "FIELD1":420,
+    "accepted_name":"Aquilomyrmex huangi",
+    "accepted_rank":"species",
+    "accepted_no":405295,
+    "max_ma":99.6,
+    "abund_value":2,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.359167 ]
+    },
+    "properties": {
+    "FIELD1":421,
+    "accepted_name":"Protoceratomyrmex revelatus",
+    "accepted_rank":"species",
+    "accepted_no":405297,
+    "max_ma":99.6,
+    "abund_value":1,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.359167 ]
+    },
+    "properties": {
+    "FIELD1":422,
+    "accepted_name":"Linguamyrmex brevicornis",
+    "accepted_rank":"species",
+    "accepted_no":405298,
+    "max_ma":99.6,
+    "abund_value":1,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.38,51.615002 ]
+    },
+    "properties": {
+    "FIELD1":423,
+    "accepted_name":"Carebara kutscheri",
+    "accepted_rank":"species",
+    "accepted_no":396378,
+    "max_ma":38,
+    "abund_value":6,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.940001,54.869999 ]
+    },
+    "properties": {
+    "FIELD1":424,
+    "accepted_name":"Carebara groehni",
+    "accepted_rank":"species",
+    "accepted_no":396377,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.38,51.615002 ]
+    },
+    "properties": {
+    "FIELD1":425,
+    "accepted_name":"Eldermyrmex exsectus",
+    "accepted_rank":"species",
+    "accepted_no":410104,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.940001,54.869999 ]
+    },
+    "properties": {
+    "FIELD1":426,
+    "accepted_name":"Eldermyrmex oblongiceps",
+    "accepted_rank":"species",
+    "accepted_no":230767,
+    "max_ma":38,
+    "abund_value":1,
+    "cc":"RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.359167 ]
+    },
+    "properties": {
+    "FIELD1":427,
+    "accepted_name":"Protozigrasimecia chauli",
+    "accepted_rank":"species",
+    "accepted_no":423498,
+    "max_ma":99.6,
+    "abund_value":1,
+    "cc":"MM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.720001,26.359167 ]
+    },
+    "properties": {
+    "FIELD1":428,
+    "accepted_name":"Zigrasimecia hoelldobleri",
+    "accepted_rank":"species",
+    "accepted_no":423496,
+    "max_ma":99.6,
+    "abund_value":2,
+    "cc":"MM"
+    }
+  }
+]
+}
